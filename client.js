@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
-var socket = require("socket.io-client")("https://webrtc-fileshare.herokuapp.com/");
+var socket = require("socket.io-client")("https://p2psignal.onrender.com/");
 var wrtc = require("wrtc");
 var fs = require("fs");
 
